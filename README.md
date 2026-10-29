@@ -20,8 +20,8 @@ Côté Android, j'aime bien remplacer les applis qui m'agacent par les miennes :
 
 * [echappee](https://github.com/Nico7an/echappee) : GPS vélo en Kotlin, navigation temps réel, fonctionne hors-ligne, se connecte au capteur cardio
 * [Spotlight](https://github.com/Nico7an/Spotlight) : la recherche d'apps de macOS, sur tablette, au clavier uniquement
-* [Terminal](https://github.com/Nico7an/Terminal) : un client SSH minimaliste
-* [btop](https://github.com/Nico7an/btop) : un moniteur système façon btop au look One UI, pensé pour le Galaxy S22 et DeX, sans root
+* [Terminal](https://github.com/Nico7an/Terminal) : un client SSH minimaliste pour Android
+* [btop](https://github.com/Nico7an/btop) : un moniteur système façon btop au look One UI, pensé pour les Galaxy S et DeX, sans root
 * [regles](https://github.com/Nico7an/regles) : suivi de cycle menstruel où les données ne quittent jamais le téléphone
 
 J'ai même fait de la rétro-ingénierie sur le Bluetooth d'une balance connectée pour me passer de l'appli du constructeur.
